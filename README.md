@@ -55,7 +55,7 @@ A database system developed in Oracle, with a Java-based interface.
 
 * GitHub: right here
 * LinkedIn: [www.linkedin.com/in/luis-rivas-20788532a](http://www.linkedin.com/in/luis-rivas-20788532a)
-* Email: luisda.rivas30+githubgmail.com
+* Email: luisda.rivas30+github@gmail.com
 
 ---
 
