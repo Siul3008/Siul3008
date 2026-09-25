@@ -23,7 +23,7 @@ I am currently learning and working with:
 
 ---
 
-## Featured Projects
+"## Featured Projects
 
 ### Summer Carnival ’92: Recca in C
 
@@ -36,7 +36,7 @@ A graphical calculator developed with Pygame, including expression handling, sta
 ### Animal Welfare Database
 
 A database system developed in Oracle, with a Java-based interface.
-
+"
 ---
 
 ## Areas of Interest
@@ -54,7 +54,7 @@ A database system developed in Oracle, with a Java-based interface.
 
 * GitHub: right here
 * LinkedIn: [www.linkedin.com/in/luis-rivas-20788532a](http://www.linkedin.com/in/luis-rivas-20788532a)
-* Email: luisda.rivas30+github@gmail.com
+* Email: luisda.rivas30@gmail.com
 
 ---
 
