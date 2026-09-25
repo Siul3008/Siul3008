@@ -23,22 +23,6 @@ I am currently learning and working with:
 
 ---
 
-"## Featured Projects
-
-### Summer Carnival ’92: Recca in C
-
-A terminal-based version inspired by Recca, developed using C and ncurses, with a focus on game logic, movement, and performance.
-
-### Scientific Calculator in Python
-
-A graphical calculator developed with Pygame, including expression handling, stacks, and mathematical operations.
-
-### Animal Welfare Database
-
-A database system developed in Oracle, with a Java-based interface.
-"
----
-
 ## Areas of Interest
 
 * Operating systems
