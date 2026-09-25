@@ -10,7 +10,6 @@ I am currently learning and working with:
 * Java
 * SQL / Oracle
 * Linux
-* Raspberry Pi
 * ARM Assembly
 * Git and GitHub
 
